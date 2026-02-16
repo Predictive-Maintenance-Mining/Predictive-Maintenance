@@ -1,0 +1,121 @@
+Date,Site_Name,Truck_ID,Driver_Name,Vehicle_Status,Alert_Type,Risk_Level,Downtime_Hours,Estimated_Production_Loss,Maintenance_Action,Next_Service_Due,Fuel_Consumption,Safety_Risk
+2025-02-12,Central Mine,TRUCK-035,John Smith,Needs Attention,Breakdown,Medium,1,"$12,000",Schedule breakdown inspection within 3 days,2025-03-01,78 L/hr,No
+2025-02-12,East Pit,TRUCK-031,Amanda White,Needs Attention,Fuel,Medium,6,"$5,000",Schedule fuel inspection within 3 days,2025-02-14,96 L/hr,No
+2025-02-12,South Pit,TRUCK-005,Daniel Walker,High Risk,Engine,High,5,"$26,000",Schedule engine inspection within 24 hours,2025-02-20,115 L/hr,Yes
+2025-02-12,North Pit,TRUCK-039,James Taylor,High Risk,Tyre,High,9,"$23,000",Replace worn tyre within 24 hours,2025-02-25,104 L/hr,Yes
+2025-02-12,Central Mine,TRUCK-005,Sarah Johnson,High Risk,Breakdown,High,8,"$17,000",Schedule repair within 48 hours,2025-02-26,92 L/hr,Yes
+2025-02-12,Central Mine,TRUCK-027,Maria Garcia,Critical,Brake,Critical,11,"$54,000",Stop truck immediately and replace brake system,2025-02-16,99 L/hr,Yes
+2025-02-12,South Pit,TRUCK-027,Michelle Lewis,Critical,Breakdown,Critical,10,"$55,000",Vehicle broken down - send recovery team,2025-02-23,130 L/hr,No
+2025-02-11,West Pit,TRUCK-018,John Smith,Needs Attention,Engine,Medium,2,"$7,000",Schedule engine inspection within 3 days,2025-03-08,73 L/hr,Yes
+2025-02-11,North Pit,TRUCK-011,Chris Thompson,Needs Attention,Tyre,Medium,5,"$7,000",Schedule tyre inspection within 3 days,2025-02-16,74 L/hr,No
+2025-02-11,East Pit,TRUCK-028,David Lee,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-03-08,113 L/hr,No
+2025-02-11,East Pit,TRUCK-015,James Taylor,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-03-06,82 L/hr,No
+2025-02-11,South Pit,TRUCK-027,Lisa Anderson,High Risk,Overheating,High,11,"$30,000",Inspect cooling system within 24 hours,2025-02-27,82 L/hr,No
+2025-02-11,Central Mine,TRUCK-027,Jennifer Davis,High Risk,Overheating,High,7,"$26,000",Inspect cooling system within 24 hours,2025-02-27,136 L/hr,No
+2025-02-10,South Pit,TRUCK-022,Maria Garcia,Needs Attention,Engine,Medium,3,"$8,000",Schedule engine inspection within 3 days,2025-03-10,47 L/hr,No
+2025-02-10,East Pit,TRUCK-034,Michelle Lewis,Needs Attention,Overheating,Medium,2,"$11,000",Schedule overheating inspection within 3 days,2025-03-07,64 L/hr,Yes
+2025-02-10,Central Mine,TRUCK-035,John Smith,Needs Attention,Fuel,Medium,6,"$3,000",Schedule fuel inspection within 3 days,2025-03-05,134 L/hr,Yes
+2025-02-10,West Pit,TRUCK-012,John Smith,Needs Attention,Tyre,Medium,2,"$10,000",Schedule tyre inspection within 3 days,2025-02-23,69 L/hr,No
+2025-02-10,West Pit,TRUCK-013,Daniel Walker,Needs Attention,Overheating,Medium,2,"$4,000",Schedule overheating inspection within 3 days,2025-03-09,71 L/hr,No
+2025-02-10,South Pit,TRUCK-006,Jennifer Davis,Needs Attention,Fuel,Medium,2,"$10,000",Schedule fuel inspection within 3 days,2025-02-20,139 L/hr,Yes
+2025-02-10,North Pit,TRUCK-033,Maria Garcia,Healthy,Brake,Low,0,$0,Continue normal operation,2025-02-15,60 L/hr,No
+2025-02-10,North Pit,TRUCK-007,Chris Thompson,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-03-10,146 L/hr,No
+2025-02-10,Central Mine,TRUCK-039,Amanda White,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-03-11,55 L/hr,No
+2025-02-10,West Pit,TRUCK-025,Mike Wilson,High Risk,Breakdown,High,7,"$20,000",Schedule repair within 48 hours,2025-02-20,84 L/hr,Yes
+2025-02-10,East Pit,TRUCK-008,Daniel Walker,High Risk,Engine,High,6,"$18,000",Schedule engine inspection within 24 hours,2025-02-22,106 L/hr,Yes
+2025-02-10,East Pit,TRUCK-011,Robert Martinez,Critical,Overheating,Critical,18,"$56,000",Stop truck and check cooling system now,2025-02-13,94 L/hr,Yes
+2025-02-09,West Pit,TRUCK-026,Daniel Walker,Needs Attention,Breakdown,Medium,3,"$5,000",Schedule breakdown inspection within 3 days,2025-03-08,80 L/hr,Yes
+2025-02-09,East Pit,TRUCK-026,David Lee,Needs Attention,Breakdown,Medium,4,"$8,000",Schedule breakdown inspection within 3 days,2025-02-13,74 L/hr,Yes
+2025-02-09,South Pit,TRUCK-031,Michael Rodriguez,Needs Attention,Engine,Medium,2,"$10,000",Schedule engine inspection within 3 days,2025-03-09,68 L/hr,No
+2025-02-09,West Pit,TRUCK-037,Jennifer Davis,Needs Attention,Breakdown,Medium,1,"$10,000",Schedule breakdown inspection within 3 days,2025-02-18,76 L/hr,No
+2025-02-09,Central Mine,TRUCK-024,Jennifer Davis,Needs Attention,Fuel,Medium,1,"$6,000",Schedule fuel inspection within 3 days,2025-03-02,96 L/hr,No
+2025-02-09,Central Mine,TRUCK-039,John Smith,Healthy,Overheating,Low,0,$0,Continue normal operation,2025-03-05,79 L/hr,No
+2025-02-09,West Pit,TRUCK-004,David Lee,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-02-25,113 L/hr,No
+2025-02-09,South Pit,TRUCK-010,John Smith,Healthy,Engine,Low,0,$0,Continue normal operation,2025-02-28,84 L/hr,No
+2025-02-09,East Pit,TRUCK-017,Emma Brown,High Risk,Tyre,High,8,"$27,000",Replace worn tyre within 24 hours,2025-03-01,104 L/hr,Yes
+2025-02-08,West Pit,TRUCK-032,John Smith,Needs Attention,Fuel,Medium,6,"$9,000",Schedule fuel inspection within 3 days,2025-03-11,139 L/hr,Yes
+2025-02-08,West Pit,TRUCK-017,Michelle Lewis,Needs Attention,Engine,Medium,6,"$11,000",Schedule engine inspection within 3 days,2025-02-24,59 L/hr,Yes
+2025-02-08,North Pit,TRUCK-038,John Smith,Needs Attention,Tyre,Medium,4,"$9,000",Schedule tyre inspection within 3 days,2025-02-15,82 L/hr,Yes
+2025-02-08,Central Mine,TRUCK-028,Mike Wilson,Needs Attention,Overheating,Medium,5,"$4,000",Schedule overheating inspection within 3 days,2025-03-05,58 L/hr,Yes
+2025-02-08,North Pit,TRUCK-011,Sarah Johnson,Needs Attention,Brake,Medium,2,"$3,000",Schedule brake inspection within 3 days,2025-02-27,83 L/hr,No
+2025-02-08,East Pit,TRUCK-003,Daniel Walker,Healthy,Tyre,Low,0,$0,Continue normal operation,2025-02-20,51 L/hr,No
+2025-02-08,South Pit,TRUCK-024,David Lee,Healthy,Tyre,Low,0,$0,Continue normal operation,2025-03-02,53 L/hr,No
+2025-02-08,East Pit,TRUCK-017,Sarah Johnson,High Risk,Engine,High,9,"$13,000",Schedule engine inspection within 24 hours,2025-03-08,148 L/hr,Yes
+2025-02-08,North Pit,TRUCK-004,Robert Martinez,High Risk,Tyre,High,6,"$30,000",Replace worn tyre within 24 hours,2025-02-16,81 L/hr,No
+2025-02-08,South Pit,TRUCK-038,James Taylor,High Risk,Breakdown,High,5,"$25,000",Schedule repair within 48 hours,2025-02-26,122 L/hr,No
+2025-02-08,North Pit,TRUCK-028,John Smith,Critical,Overheating,Critical,14,"$48,000",Stop truck and check cooling system now,2025-02-26,88 L/hr,Yes
+2025-02-08,West Pit,TRUCK-032,Maria Garcia,Critical,Engine,Critical,15,"$35,000",Stop truck immediately and inspect engine,2025-02-22,150 L/hr,Yes
+2025-02-07,East Pit,TRUCK-025,Michelle Lewis,Needs Attention,Fuel,Medium,6,"$11,000",Schedule fuel inspection within 3 days,2025-02-28,108 L/hr,Yes
+2025-02-07,West Pit,TRUCK-036,Robert Martinez,Needs Attention,Tyre,Medium,6,"$11,000",Schedule tyre inspection within 3 days,2025-02-24,74 L/hr,No
+2025-02-07,North Pit,TRUCK-019,Emma Brown,Needs Attention,Tyre,Medium,2,"$11,000",Schedule tyre inspection within 3 days,2025-03-03,56 L/hr,No
+2025-02-07,North Pit,TRUCK-016,Emma Brown,Healthy,Tyre,Low,0,$0,Continue normal operation,2025-03-11,79 L/hr,No
+2025-02-07,Central Mine,TRUCK-027,Jennifer Davis,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-03-14,60 L/hr,No
+2025-02-07,West Pit,TRUCK-019,Robert Martinez,Healthy,Brake,Low,0,$0,Continue normal operation,2025-03-06,69 L/hr,No
+2025-02-07,Central Mine,TRUCK-018,Michelle Lewis,Healthy,Engine,Low,0,$0,Continue normal operation,2025-02-22,82 L/hr,No
+2025-02-07,East Pit,TRUCK-016,John Smith,High Risk,Brake,High,5,"$12,000",Inspect brake system within 12 hours,2025-03-08,142 L/hr,Yes
+2025-02-07,North Pit,TRUCK-011,Emma Brown,High Risk,Fuel,High,8,"$22,000",Check fuel system for leaks,2025-02-27,91 L/hr,Yes
+2025-02-07,East Pit,TRUCK-021,Maria Garcia,High Risk,Fuel,High,4,"$27,000",Check fuel system for leaks,2025-02-26,86 L/hr,No
+2025-02-06,East Pit,TRUCK-029,Daniel Walker,Needs Attention,Overheating,Medium,2,"$6,000",Schedule overheating inspection within 3 days,2025-02-23,46 L/hr,Yes
+2025-02-06,North Pit,TRUCK-037,Sarah Johnson,Needs Attention,Overheating,Medium,5,"$4,000",Schedule overheating inspection within 3 days,2025-03-06,82 L/hr,No
+2025-02-06,South Pit,TRUCK-014,Maria Garcia,Needs Attention,Fuel,Medium,5,"$10,000",Schedule fuel inspection within 3 days,2025-02-14,106 L/hr,No
+2025-02-06,East Pit,TRUCK-005,Robert Martinez,Needs Attention,Breakdown,Medium,4,"$10,000",Schedule breakdown inspection within 3 days,2025-02-26,68 L/hr,Yes
+2025-02-06,South Pit,TRUCK-029,Jennifer Davis,High Risk,Tyre,High,4,"$15,000",Replace worn tyre within 24 hours,2025-02-23,115 L/hr,No
+2025-02-06,Central Mine,TRUCK-022,John Smith,High Risk,Engine,High,8,"$15,000",Schedule engine inspection within 24 hours,2025-03-03,113 L/hr,Yes
+2025-02-06,West Pit,TRUCK-005,Jennifer Davis,High Risk,Breakdown,High,6,"$14,000",Schedule repair within 48 hours,2025-02-15,111 L/hr,No
+2025-02-06,Central Mine,TRUCK-030,Robert Martinez,Critical,Tyre,Critical,8,"$32,000",Replace tyre immediately before operation,2025-03-09,123 L/hr,No
+2025-02-06,East Pit,TRUCK-018,Michelle Lewis,Critical,Engine,Critical,16,"$47,000",Stop truck immediately and inspect engine,2025-03-05,145 L/hr,Yes
+2025-02-05,South Pit,TRUCK-028,David Lee,Needs Attention,Tyre,Medium,1,"$10,000",Schedule tyre inspection within 3 days,2025-02-14,79 L/hr,Yes
+2025-02-05,North Pit,TRUCK-036,Sarah Johnson,Needs Attention,Engine,Medium,4,"$11,000",Schedule engine inspection within 3 days,2025-03-09,73 L/hr,No
+2025-02-05,East Pit,TRUCK-033,Amanda White,Needs Attention,Tyre,Medium,4,"$10,000",Schedule tyre inspection within 3 days,2025-02-27,80 L/hr,Yes
+2025-02-05,East Pit,TRUCK-003,Sarah Johnson,High Risk,Tyre,High,11,"$12,000",Replace worn tyre within 24 hours,2025-03-14,113 L/hr,Yes
+2025-02-04,East Pit,TRUCK-038,James Taylor,Needs Attention,Overheating,Medium,2,"$5,000",Schedule overheating inspection within 3 days,2025-02-15,48 L/hr,No
+2025-02-04,West Pit,TRUCK-036,John Smith,Healthy,Engine,Low,0,$0,Continue normal operation,2025-03-13,54 L/hr,No
+2025-02-04,North Pit,TRUCK-024,Jennifer Davis,Healthy,Overheating,Low,0,$0,Continue normal operation,2025-02-17,47 L/hr,No
+2025-02-04,South Pit,TRUCK-033,Daniel Walker,High Risk,Engine,High,8,"$30,000",Schedule engine inspection within 24 hours,2025-03-01,105 L/hr,Yes
+2025-02-04,Central Mine,TRUCK-022,Michelle Lewis,High Risk,Engine,High,11,"$13,000",Schedule engine inspection within 24 hours,2025-03-01,138 L/hr,Yes
+2025-02-03,Central Mine,TRUCK-028,Michelle Lewis,Needs Attention,Overheating,Medium,2,"$10,000",Schedule overheating inspection within 3 days,2025-02-21,60 L/hr,No
+2025-02-03,East Pit,TRUCK-031,Lisa Anderson,Needs Attention,Fuel,Medium,1,"$7,000",Schedule fuel inspection within 3 days,2025-02-16,88 L/hr,No
+2025-02-03,West Pit,TRUCK-010,Lisa Anderson,Needs Attention,Overheating,Medium,3,"$11,000",Schedule overheating inspection within 3 days,2025-02-27,65 L/hr,No
+2025-02-03,South Pit,TRUCK-005,John Smith,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-02-22,50 L/hr,No
+2025-02-03,Central Mine,TRUCK-015,Jennifer Davis,Healthy,Brake,Low,0,$0,Continue normal operation,2025-03-07,85 L/hr,No
+2025-02-03,Central Mine,TRUCK-021,Daniel Walker,Healthy,Tyre,Low,0,$0,Continue normal operation,2025-03-07,65 L/hr,No
+2025-02-03,Central Mine,TRUCK-007,Maria Garcia,Healthy,Overheating,Low,0,$0,Continue normal operation,2025-02-21,53 L/hr,No
+2025-02-03,North Pit,TRUCK-018,Jennifer Davis,High Risk,Engine,High,6,"$25,000",Schedule engine inspection within 24 hours,2025-03-01,136 L/hr,Yes
+2025-02-02,South Pit,TRUCK-040,Jennifer Davis,Needs Attention,Tyre,Medium,1,"$7,000",Schedule tyre inspection within 3 days,2025-02-19,72 L/hr,No
+2025-02-02,North Pit,TRUCK-019,Robert Martinez,Needs Attention,Breakdown,Medium,3,"$4,000",Schedule breakdown inspection within 3 days,2025-03-06,64 L/hr,Yes
+2025-02-02,North Pit,TRUCK-002,Amanda White,Healthy,Tyre,Low,0,$0,Continue normal operation,2025-02-17,51 L/hr,No
+2025-02-02,Central Mine,TRUCK-006,Jennifer Davis,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-02-15,107 L/hr,No
+2025-02-02,East Pit,TRUCK-005,Jennifer Davis,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-03-08,60 L/hr,No
+2025-02-02,East Pit,TRUCK-030,Mike Wilson,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-03-10,74 L/hr,No
+2025-02-02,West Pit,TRUCK-014,Robert Martinez,High Risk,Brake,High,11,"$17,000",Inspect brake system within 12 hours,2025-03-10,140 L/hr,Yes
+2025-02-02,East Pit,TRUCK-040,Emma Brown,High Risk,Breakdown,High,8,"$26,000",Schedule repair within 48 hours,2025-03-06,132 L/hr,No
+2025-02-02,West Pit,TRUCK-010,James Taylor,High Risk,Brake,High,8,"$29,000",Inspect brake system within 12 hours,2025-03-10,148 L/hr,Yes
+2025-02-02,North Pit,TRUCK-022,Michelle Lewis,High Risk,Breakdown,High,10,"$20,000",Schedule repair within 48 hours,2025-03-12,149 L/hr,No
+2025-02-02,North Pit,TRUCK-003,Chris Thompson,Critical,Engine,Critical,14,"$26,000",Stop truck immediately and inspect engine,2025-03-04,99 L/hr,Yes
+2025-02-01,East Pit,TRUCK-040,Chris Thompson,Needs Attention,Breakdown,Medium,6,"$11,000",Schedule breakdown inspection within 3 days,2025-03-14,51 L/hr,No
+2025-02-01,East Pit,TRUCK-016,Mike Wilson,Needs Attention,Tyre,Medium,5,"$4,000",Schedule tyre inspection within 3 days,2025-02-17,59 L/hr,Yes
+2025-02-01,East Pit,TRUCK-026,Mike Wilson,Needs Attention,Overheating,Medium,4,"$4,000",Schedule overheating inspection within 3 days,2025-03-13,72 L/hr,Yes
+2025-02-01,West Pit,TRUCK-035,Maria Garcia,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-02-22,126 L/hr,No
+2025-02-01,East Pit,TRUCK-039,Mike Wilson,Healthy,Engine,Low,0,$0,Continue normal operation,2025-03-06,81 L/hr,No
+2025-02-01,East Pit,TRUCK-014,Michael Rodriguez,High Risk,Breakdown,High,12,"$25,000",Schedule repair within 48 hours,2025-03-13,86 L/hr,No
+2025-02-01,South Pit,TRUCK-007,Amanda White,High Risk,Tyre,High,5,"$28,000",Replace worn tyre within 24 hours,2025-02-24,148 L/hr,Yes
+2025-01-31,Central Mine,TRUCK-039,Michael Rodriguez,Needs Attention,Tyre,Medium,4,"$6,000",Schedule tyre inspection within 3 days,2025-03-10,55 L/hr,No
+2025-01-31,West Pit,TRUCK-030,James Taylor,Needs Attention,Breakdown,Medium,3,"$6,000",Schedule breakdown inspection within 3 days,2025-02-21,73 L/hr,Yes
+2025-01-31,South Pit,TRUCK-013,Sarah Johnson,Needs Attention,Breakdown,Medium,6,"$12,000",Schedule breakdown inspection within 3 days,2025-02-16,57 L/hr,No
+2025-01-31,Central Mine,TRUCK-013,James Taylor,Needs Attention,Engine,Medium,6,"$5,000",Schedule engine inspection within 3 days,2025-03-11,54 L/hr,No
+2025-01-31,East Pit,TRUCK-026,Mike Wilson,Healthy,Engine,Low,0,$0,Continue normal operation,2025-03-03,65 L/hr,No
+2025-01-31,North Pit,TRUCK-029,David Lee,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-02-13,47 L/hr,No
+2025-01-31,West Pit,TRUCK-013,Maria Garcia,High Risk,Engine,High,9,"$23,000",Schedule engine inspection within 24 hours,2025-02-26,139 L/hr,Yes
+2025-01-31,West Pit,TRUCK-016,Mike Wilson,High Risk,Brake,High,5,"$22,000",Inspect brake system within 12 hours,2025-03-12,84 L/hr,Yes
+2025-01-31,West Pit,TRUCK-019,James Taylor,Critical,Breakdown,Critical,23,"$34,000",Vehicle broken down - send recovery team,2025-02-22,107 L/hr,Yes
+2025-01-30,South Pit,TRUCK-007,James Taylor,Needs Attention,Tyre,Medium,3,"$5,000",Schedule tyre inspection within 3 days,2025-02-24,58 L/hr,No
+2025-01-30,West Pit,TRUCK-015,Sarah Johnson,Needs Attention,Fuel,Medium,2,"$6,000",Schedule fuel inspection within 3 days,2025-03-06,104 L/hr,Yes
+2025-01-30,North Pit,TRUCK-030,James Taylor,Needs Attention,Breakdown,Medium,6,"$9,000",Schedule breakdown inspection within 3 days,2025-02-25,60 L/hr,No
+2025-01-30,North Pit,TRUCK-035,Chris Thompson,Healthy,Brake,Low,0,$0,Continue normal operation,2025-02-28,80 L/hr,No
+2025-01-30,North Pit,TRUCK-006,Daniel Walker,Healthy,Brake,Low,0,$0,Continue normal operation,2025-02-28,75 L/hr,No
+2025-01-30,South Pit,TRUCK-012,Daniel Walker,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-03-08,122 L/hr,No
+2025-01-30,East Pit,TRUCK-034,Lisa Anderson,Healthy,Breakdown,Low,0,$0,Continue normal operation,2025-02-27,49 L/hr,No
+2025-01-30,South Pit,TRUCK-016,Jennifer Davis,Healthy,Fuel,Low,0,$0,Continue normal operation,2025-03-09,132 L/hr,No
+2025-01-30,North Pit,TRUCK-010,Michael Rodriguez,High Risk,Brake,High,10,"$29,000",Inspect brake system within 12 hours,2025-02-15,129 L/hr,Yes
+2025-01-30,North Pit,TRUCK-007,John Smith,High Risk,Fuel,High,5,"$17,000",Check fuel system for leaks,2025-02-19,148 L/hr,Yes
+2025-01-30,West Pit,TRUCK-025,Daniel Walker,Critical,Overheating,Critical,8,"$49,000",Stop truck and check cooling system now,2025-02-28,80 L/hr,Yes
