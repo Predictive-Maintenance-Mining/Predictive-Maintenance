@@ -6,6 +6,13 @@ import plotly.express as px
 from datetime import datetime, timedelta
 from PIL import Image
 
+st.set_page_config(
+    page_title="Asset Analysis - Haul Truck HT20002",
+    page_icon="🚛",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
 st.markdown("""
 <style>
 /* Hide default Streamlit multipage navigation */
@@ -16,12 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.set_page_config(
-    page_title="Asset Analysis - Haul Truck HT20002",
-    page_icon="🚛",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
+
 
 # Color Theme
 BG_PRIMARY = "#0d1117"
@@ -1192,3 +1194,4 @@ st.markdown(f"""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
