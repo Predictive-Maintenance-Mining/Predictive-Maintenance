@@ -13,16 +13,6 @@ import plotly.express as px
 from datetime import datetime, timedelta
 from PIL import Image
 
-
-st.markdown("""
-<style>
-/* Hide default Streamlit multipage navigation */
-[data-testid="stSidebarNav"] {
-    display: none;
-}
-</style>
-""", unsafe_allow_html=True)
-
 # =====================================================
 # PAGE CONFIG
 # =====================================================
@@ -34,6 +24,18 @@ st.set_page_config(
         'About': "Enterprise Mining Operations Dashboard v2.0"
     }
 )
+
+
+st.markdown("""
+<style>
+/* Hide default Streamlit multipage navigation */
+[data-testid="stSidebarNav"] {
+    display: none;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
 
 
 
@@ -1551,4 +1553,5 @@ def render_maintenance_tab(selected_plant: str, to_date: date) -> None:
 # RUN APPLICATION
 # =====================================================
 if __name__ == "__main__":
+
     main()
