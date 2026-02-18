@@ -1043,7 +1043,7 @@ def main():
         selected_truck = st.sidebar.selectbox("Select Truck", ["Truck-1","Truck-2","Truck-3"], key="truck_select")
         ph = show_clock(f"Loading {selected_truck} Dashboard", "Fetching real-time truck telemetry…")
         st.session_state.selected_truck = selected_truck
-        st.switch_page("pages/truck1.py")
+        st.switch_page("pages/truck.py")
 
     if view_mode == "🚛 Sub-Plant / Asset Insights":
         selected_subplant_insight = st.sidebar.selectbox("Select Sub-Plant", list(PLANT_STRUCTURE.keys()), key="subplant_insight")
