@@ -22,7 +22,16 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+# 🔙 Back to Main Dashboard Button (Top Right)
+# ============================================================
 
+col_back1, col_back2 = st.columns([6, 1])
+
+if st.button("⬅ Back to Dashboard"):
+    st.markdown(
+        '<meta http-equiv="refresh" content="0; url=/" />',
+        unsafe_allow_html=True,
+    )
 
 
 # Color Theme
@@ -1194,4 +1203,5 @@ st.markdown(f"""
     </p>
 </div>
 """, unsafe_allow_html=True)
+
 
