@@ -14,15 +14,6 @@ from datetime import datetime, timedelta
 from PIL import Image
 import time
 
-st.markdown("""
-<style>
-/* Hide default Streamlit multipage navigation */
-[data-testid="stSidebarNav"] {
-    display: none;
-}
-</style>
-""", unsafe_allow_html=True)
-
 # =====================================================
 # PAGE CONFIG
 # =====================================================
@@ -34,6 +25,17 @@ st.set_page_config(
         'About': "Enterprise Mining Operations Dashboard v2.0"
     }
 )
+
+
+st.markdown("""
+<style>
+/* Hide default Streamlit multipage navigation */
+[data-testid="stSidebarNav"] {
+    display: none;
+}
+</style>
+""", unsafe_allow_html=True)
+
 
 # =====================================================
 # LOADING CLOCK ANIMATION CSS
